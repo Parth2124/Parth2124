@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parth2124
-- 👀 I’m interested in Java Development || Web Dev.
-- 🌱 I’m currently learning Java core || Spring Boot || DSA
-- 💞️ I’m looking to collaborate on open source
+- 👀 I’m interested in Python Developer || Web Dev.
+- 🌱 I’m currently learning Python core || Django || DSA
+- 💞️ I’m looking to collaborate on open source and freelancing work
 - 📫 How to reach me parthkhannaa@gmail.com
 - ⚡ Fun fact: Coding is Love | Develop Something!!
 
